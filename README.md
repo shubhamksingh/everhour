@@ -31,7 +31,7 @@
 </li>
 </ul>
 
-<h4>Features</h4>
+<h4>Features.</h4>
 <ul>
 <li>Login/signup Authentication.</li>
 <li>Landing page with functionality.</li>
